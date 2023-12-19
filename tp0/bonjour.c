@@ -9,7 +9,8 @@
 // coucou
 
 int main() {
-    printf("Bonjour à tous !\n");
+    printf("Bonjour à tous !%d \n");
+     ;
     exit(0);
 }
 
