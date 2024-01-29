@@ -1,6 +1,6 @@
 .PHONY: all clean
 
-PROGS=sum calculatrice
+PROGS=sum calculatrice 
 CC=gcc
 CFLAGS=
 

@@ -1,0 +1,15 @@
+Quel problème constatez-vous en exécutant le programme ?
+(note : vous pouvez l'interrompre par CTRL-C)
+
+le problème est que le programme ne s'arrête jamais c'est comme si il y a une boucle infinie à l'interieur  
+
+Quel est la raison de ce problème ?
+
+la raison de ce problème est que ce programme utilise des listes chainer et que dans le programme on change à un moment (ligne 58) l'ordre de chainage 
+
+Décrivez un algorithme permettant de détecter une liste
+chaînée ayant ce problème.
+
+
+
+Implémentez cet algorithme dans une fonction et testez-la.
